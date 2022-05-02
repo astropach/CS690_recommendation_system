@@ -9,7 +9,9 @@ https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home
 
 
 #To make training data
+
 python make_graph.py
 
 #To run LightGCN model:
+
 python main.py
