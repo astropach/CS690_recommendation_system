@@ -5,6 +5,8 @@ How to run:
 Download links for the dataset available at 
 https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home
 
+Data filtering etc is done in goodreads_explore.ipynb
+
 #To make NLP embeddings, follow procedure in make_embeddings.ipynb
 
 
